@@ -1,4 +1,4 @@
-#stuartfenton/docker-golang-runtime
+## stuartfenton/docker-golang-runtime ##
 FROM stuartfenton/docker-golang-base
 
 ADD go-build /bin/go-build
